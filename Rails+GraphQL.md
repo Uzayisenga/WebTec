@@ -57,8 +57,8 @@ $ rails generate graphql:install
 $ rails g graphql:object Blog
 ```
 
-[![Image from Gyazo](https://t.gyazo.com/teams/diveintocode/526dc3f172946156a5bf9f3f7cb.png)]
-(https://diveintocode.gyazo.com/526dc3f172946156a5bf9f3f7cb)
+
+[![Image from Gyazo](https://t.gyazo.com/teams/diveintocode/526dc3f172946156a5bf9f3f7cb.png)](https://diveintocode.gyazo.com/526dc3f172946156a5bf9f3f7cb)
 
 These files are the files to set the resource calling method in GraphQL.
 First, field of the file app/graphql/types/blog_type.rb which data (column) to access.
